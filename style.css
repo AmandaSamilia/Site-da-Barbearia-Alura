@@ -2,8 +2,13 @@ body {
     background: #CCCCCC
 }
 
+#imagem {
+    width: 100%;
+}
+
+
 h1{
-    style="text-align: center"
+    text-align: center
 }
 
 P {
