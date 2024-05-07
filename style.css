@@ -134,17 +134,37 @@ form label, form legend {
 	transform: scale(1.2);
 }
 
-table {
-	margin: 20px 0 40px;
+/* css da página */
+
+.imagem {
+	width: 100%;
 }
 
-thead {
-	background: #555555;
-	color: white;
+.titulo-principal {
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.principal p {
+	margin: 0 0 1em;
+}
+
+.principal strong {
 	font-weight: bold;
 }
 
-td, th {
-	border: 1px solid #000000;
-	padding: 8px 15px;
+.principal em {
+	font-style: italic;
+}
+
+.utensilios {
+	width: 120px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
+
+.imagmbeneicios {
+	width: 60%;
 }
