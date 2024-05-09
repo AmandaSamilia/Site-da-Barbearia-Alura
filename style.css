@@ -1,3 +1,7 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
 header {
 	background: #BBBBBB;
 	padding: 20px 0;
@@ -109,7 +113,7 @@ form label, form legend {
 	display: block;
 	margin: 0 0 20px;
 	padding: 10px 25px;
-	width: 50%;
+	width: 50%;<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3591.358890707279!2d-49.36868712361955!3d-25.82471674862833!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ddad93ec8b3b5f%3A0xe07771f69624ead5!2sVanessa%20Samilia%20Personalizados!5e0!3m2!1spt-BR!2sbr!4v1715261612021!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 }
 
 .checkbox {
@@ -167,4 +171,18 @@ form label, form legend {
 
 .imagmbeneicios {
 	width: 60%;
+}
+
+.mapa {
+    padding: 3em 0;
+}
+
+.mapa p {
+    margin: 0 0 2em;
+    text-align: center;
+}
+
+.video {
+    width: 560px;
+    margin: 1em auto;
 }
